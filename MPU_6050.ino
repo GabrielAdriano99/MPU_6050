@@ -12,8 +12,7 @@ int16_t AcX,AcY,AcZ,Tmp,GyX,GyY,GyZ, MgX, MgY, MgZ;
 float Gz, Gx, Gy, m, angleX, angleY, angleZ;
 float inclinacaoX, inclinacaoY, inclinacaoZ;
 float left, right, front, back;
-char attsTwo[2];
-char attsThree[3];
+char atts[2];
 
 void setup(){
   Wire.begin();
@@ -75,35 +74,93 @@ void loop(){
   Serial.println();
 
   for(i = 0; i < 2; i++){
-    if(attsTwo[i] != 'D' && attsTwo[i] != 'E'){
+    if(atts[i] != 'D' && atts[i] != 'E' && atts[i] != 'F'){
       if(inclinacaoZ > 35){
         Serial.println("ESQUERDA");
         Serial.println("'E' add ao vetor attsT");
-        attsTwo[i] = 'E';
+        atts[i] = 'E';
         delay(3000);
-      } 
+      } else
       if(inclinacaoZ < -30) {
         Serial.println("DIREITA");
-        Serial.println("'D' add ao vetor attsTwo");
-        attsTwo[i] = 'D';
+        Serial.println("'D' add ao vetor atts");
+        atts[i] = 'D';
         delay(3000);
-      } 
+      } else
       if(inclinacaoX < -40) {
         Serial.println("FRENTE");
-        Serial.println("'F' add ao vetor attsTwo");
-        attsTwo[i] = 'F';
+        Serial.println("'F' add ao vetor atts");
+        atts[i] = 'F';
         delay(3000);
       }
-      Serial.println(attsTwo[i]);
+      Serial.println(atts[i]);
       break;
-    }
+    } 
   }
   Serial.println("");
   Serial.print("INDiCE 0 = ");
-  Serial.println(attsTwo[0]);
+  Serial.println(atts[0]);
   Serial.print("INDiCE 1 = ");
-  Serial.println(attsTwo[1]);
+  Serial.println(atts[1]);
 
+  if(atts[0] == 'F'){
+    digitalWrite(ledRed, HIGH);
+  } 
+  else if(atts[0] == 'E'){
+    digitalWrite(ledYellow, HIGH);
+  } 
+  else if(atts[0] == 'D'){
+    digitalWrite(ledGreen, HIGH);
+  }
+  
+  if(atts[0] == 'F' && atts[1] == 'F'){
+    digitalWrite(ledRed, HIGH);
+  } 
+  else if(atts[0] == 'F' && atts[1] == 'D'){
+    digitalWrite(ledRed, HIGH);
+    digitalWrite(ledGreen, HIGH);
+  } 
+  else if(atts[0] == 'F' && atts[1] == 'E'){
+    digitalWrite(ledRed, HIGH);
+    digitalWrite(ledYellow, HIGH);
+  } 
+  else if(atts[0] == 'E' && atts[1] == 'E'){
+    digitalWrite(ledYellow, HIGH);
+    digitalWrite(ledYellow, HIGH);
+  } 
+  else if(atts[0] == 'E' && atts[1] == 'D'){
+    digitalWrite(ledYellow, HIGH);
+    digitalWrite(ledGreen, HIGH);
+  } 
+  else if(atts[0] == 'E' && atts[1] == 'F'){
+    digitalWrite(ledYellow, HIGH);
+    digitalWrite(ledRed, HIGH);
+  } 
+  else if(atts[0] == 'D' && atts[1] == 'D'){
+    digitalWrite(ledGreen, HIGH);
+    digitalWrite(ledGreen, HIGH);
+  } 
+  else if(atts[0] == 'D' && atts[1] == 'E'){
+    digitalWrite(ledGreen, HIGH);
+    digitalWrite(ledYellow, HIGH);
+  } 
+  else if(atts[0] == 'D' && atts[1] == 'F'){
+    digitalWrite(ledGreen, HIGH);
+    digitalWrite(ledRed, HIGH);
+  } 
+  else {
+    digitalWrite(ledGreen, LOW);
+    digitalWrite(ledRed, LOW);
+    digitalWrite(ledYellow, LOW);
+  }
+
+  if(inclinacaoX > 30){
+    if(atts[0] != ' ' && atts[1] != ' '){
+      atts[0] = false;
+      atts[1] = false;
+      delay(3000);
+    }
+  }
 
   //Serial.println(" | inclinacao = "); 
   //Serial.print(inclinacao);
@@ -124,14 +181,4 @@ void loop(){
 
   delay(250);
 }
-
-
-
-
-
-
-
-
-
-
 
