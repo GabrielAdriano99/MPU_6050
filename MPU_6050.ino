@@ -1,12 +1,19 @@
 #include<Wire.h>
-#include
 
 #define MPU9250_ADDRESS 0x68
 #define MAG_ADDRESS 0x0C
 
+int ledGreen = 11;
+int ledRed = 10;
+int ledYellow = 9;
+int i;
+
 int16_t AcX,AcY,AcZ,Tmp,GyX,GyY,GyZ, MgX, MgY, MgZ;
 float Gz, Gx, Gy, m, angleX, angleY, angleZ;
 float inclinacaoX, inclinacaoY, inclinacaoZ;
+float left, right, front, back;
+char attsTwo[2];
+char attsThree[3];
 
 void setup(){
   Wire.begin();
@@ -14,6 +21,9 @@ void setup(){
   //Wire.write(0x6B);  // PWR_MGMT_1 register
   //Wire.write(0);     // set to zero (wakes up the MPU-6050)
   Wire.endTransmission(true);
+  pinMode(ledGreen, OUTPUT);
+  pinMode(ledRed, OUTPUT);
+  pinMode(ledYellow, OUTPUT);
   Serial.begin(9600);
 }
 void loop(){
@@ -49,14 +59,52 @@ void loop(){
   inclinacaoY = angleY - 90;
   inclinacaoZ = angleZ - 90;
 
-  Serial.print("angleX = "); Serial.print(angleX);
-  Serial.print(" | angleY = "); Serial.print(angleY);
-  Serial.print(" | angleZ = "); Serial.println(angleZ);
-  
-  Serial.print("inclinacaoX = "); Serial.print(inclinacaoX);
-  Serial.print(" | inclinacaoY = "); Serial.print(inclinacaoY);
-  Serial.print(" | inclinacaoZ = "); Serial.println(inclinacaoZ);
+  Serial.print("angleX = "); 
+  Serial.print(angleX);
+  Serial.print(" | angleY = "); 
+  Serial.print(angleY);
+  Serial.print(" | angleZ = "); 
+  Serial.println(angleZ);
+
+  Serial.print("inclinacaoX = "); 
+  Serial.print(inclinacaoX);
+  Serial.print(" | inclinacaoY = "); 
+  Serial.print(inclinacaoY);
+  Serial.print(" | inclinacaoZ = "); 
+  Serial.println(inclinacaoZ);
   Serial.println();
+
+  for(i = 0; i < 2; i++){
+    if(attsTwo[i] != 'D' && attsTwo[i] != 'E'){
+      if(inclinacaoZ > 35){
+        Serial.println("ESQUERDA");
+        Serial.println("'E' add ao vetor attsT");
+        attsTwo[i] = 'E';
+        delay(3000);
+      } 
+      if(inclinacaoZ < -30) {
+        Serial.println("DIREITA");
+        Serial.println("'D' add ao vetor attsTwo");
+        attsTwo[i] = 'D';
+        delay(3000);
+      } 
+      if(inclinacaoX < -40) {
+        Serial.println("FRENTE");
+        Serial.println("'F' add ao vetor attsTwo");
+        attsTwo[i] = 'F';
+        delay(3000);
+      }
+      Serial.println(attsTwo[i]);
+      break;
+    }
+  }
+  Serial.println("");
+  Serial.print("INDiCE 0 = ");
+  Serial.println(attsTwo[0]);
+  Serial.print("INDiCE 1 = ");
+  Serial.println(attsTwo[1]);
+
+
   //Serial.println(" | inclinacao = "); 
   //Serial.print(inclinacao);
   //Serial.println(" | AcY = "); Serial.print(AcY);
@@ -74,6 +122,16 @@ void loop(){
 
   //Serial.println("MgX = "); Serial.println(inclinacao);
 
-  delay(333);
+  delay(250);
 }
+
+
+
+
+
+
+
+
+
+
 

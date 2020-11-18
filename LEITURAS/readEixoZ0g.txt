@@ -1,0 +1,798 @@
+angleX = 81.72 | angleY = 8.67 | angleZ = 87.63
+inclinacaoX = -8.28 | inclinacaoY = -81.33 | inclinacaoZ = -2.37
+
+angleX = 83.64 | angleY = 9.61 | angleZ = 82.92
+inclinacaoX = -6.36 | inclinacaoY = -80.39 | inclinacaoZ = -7.08
+
+angleX = 81.07 | angleY = 9.15 | angleZ = 88.24
+inclinacaoX = -8.93 | inclinacaoY = -80.85 | inclinacaoZ = -1.76
+
+angleX = 87.75 | angleY = 2.33 | angleZ = 90.41
+inclinacaoX = -2.25 | inclinacaoY = -87.67 | inclinacaoZ = 0.41
+
+angleX = 84.01 | angleY = 9.48 | angleZ = 82.76
+inclinacaoX = -5.99 | inclinacaoY = -80.52 | inclinacaoZ = -7.24
+
+angleX = 83.19 | angleY = 6.86 | angleZ = 90.47
+inclinacaoX = -6.81 | inclinacaoY = -83.14 | inclinacaoZ = 0.47
+
+angleX = 85.45 | angleY = 5.41 | angleZ = 87.20
+inclinacaoX = -4.55 | inclinacaoY = -84.59 | inclinacaoZ = -2.80
+
+angleX = 86.20 | angleY = 4.03 | angleZ = 88.84
+inclinacaoX = -3.80 | inclinacaoY = -85.97 | inclinacaoZ = -1.16
+
+angleX = 88.52 | angleY = 1.64 | angleZ = 89.43
+inclinacaoX = -1.48 | inclinacaoY = -88.36 | inclinacaoZ = -0.57
+
+angleX = 87.00 | angleY = 3.17 | angleZ = 89.16
+inclinacaoX = -3.00 | inclinacaoY = -86.83 | inclinacaoZ = -0.84
+
+angleX = 89.20 | angleY = 1.82 | angleZ = 88.43
+inclinacaoX = -0.80 | inclinacaoY = -88.18 | inclinacaoZ = -1.57
+
+angleX = 89.06 | angleY = 2.00 | angleZ = 88.31
+inclinacaoX = -0.94 | inclinacaoY = -88.00 | inclinacaoZ = -1.69
+
+angleX = 91.93 | angleY = 3.14 | angleZ = 87.54
+inclinacaoX = 1.93 | inclinacaoY = -86.86 | inclinacaoZ = -2.46
+
+angleX = 90.30 | angleY = 2.39 | angleZ = 87.67
+inclinacaoX = 0.30 | inclinacaoY = -87.61 | inclinacaoZ = -2.33
+
+angleX = 90.98 | angleY = 3.68 | angleZ = 86.49
+inclinacaoX = 0.98 | inclinacaoY = -86.32 | inclinacaoZ = -3.51
+
+angleX = 90.76 | angleY = 3.23 | angleZ = 86.90
+inclinacaoX = 0.76 | inclinacaoY = -86.77 | inclinacaoZ = -3.10
+
+angleX = 89.75 | angleY = 2.04 | angleZ = 88.02
+inclinacaoX = -0.25 | inclinacaoY = -87.96 | inclinacaoZ = -1.98
+
+angleX = 88.75 | angleY = 1.31 | angleZ = 89.85
+inclinacaoX = -1.25 | inclinacaoY = -88.69 | inclinacaoZ = -0.15
+
+angleX = 89.78 | angleY = 0.28 | angleZ = 90.14
+inclinacaoX = -0.22 | inclinacaoY = -89.72 | inclinacaoZ = 0.14
+
+angleX = 88.33 | angleY = 1.79 | angleZ = 89.55
+inclinacaoX = -1.67 | inclinacaoY = -88.21 | inclinacaoZ = -0.45
+
+angleX = 89.82 | angleY = 0.27 | angleZ = 89.90
+inclinacaoX = -0.18 | inclinacaoY = -89.73 | inclinacaoZ = -0.10
+
+angleX = 87.88 | angleY = 2.18 | angleZ = 89.78
+inclinacaoX = -2.12 | inclinacaoY = -87.82 | inclinacaoZ = -0.22
+
+angleX = 88.94 | angleY = 1.11 | angleZ = 89.92
+inclinacaoX = -1.06 | inclinacaoY = -88.89 | inclinacaoZ = -0.08
+
+angleX = 89.84 | angleY = 0.22 | angleZ = 90.12
+inclinacaoX = -0.16 | inclinacaoY = -89.78 | inclinacaoZ = 0.12
+
+angleX = 89.45 | angleY = 0.60 | angleZ = 90.10
+inclinacaoX = -0.55 | inclinacaoY = -89.40 | inclinacaoZ = 0.10
+
+angleX = 87.74 | angleY = 2.31 | angleZ = 90.14
+inclinacaoX = -2.26 | inclinacaoY = -87.69 | inclinacaoZ = 0.14
+
+angleX = 88.13 | angleY = 1.92 | angleZ = 90.10
+inclinacaoX = -1.87 | inclinacaoY = -88.08 | inclinacaoZ = 0.10
+
+angleX = 87.62 | angleY = 2.56 | angleZ = 90.87
+inclinacaoX = -2.38 | inclinacaoY = -87.44 | inclinacaoZ = 0.87
+
+angleX = 88.18 | angleY = 2.21 | angleZ = 91.22
+inclinacaoX = -1.82 | inclinacaoY = -87.79 | inclinacaoZ = 1.22
+
+angleX = 88.96 | angleY = 1.20 | angleZ = 90.55
+inclinacaoX = -1.04 | inclinacaoY = -88.80 | inclinacaoZ = 0.55
+
+angleX = 89.16 | angleY = 0.90 | angleZ = 90.22
+inclinacaoX = -0.84 | inclinacaoY = -89.10 | inclinacaoZ = 0.22
+
+angleX = 90.06 | angleY = 0.21 | angleZ = 90.26
+inclinacaoX = 0.06 | inclinacaoY = -89.79 | inclinacaoZ = 0.26
+
+angleX = 89.99 | angleY = 0.55 | angleZ = 90.59
+inclinacaoX = -0.01 | inclinacaoY = -89.45 | inclinacaoZ = 0.59
+
+angleX = 88.76 | angleY = 1.29 | angleZ = 90.17
+inclinacaoX = -1.24 | inclinacaoY = -88.71 | inclinacaoZ = 0.17
+
+angleX = 88.24 | angleY = 1.86 | angleZ = 89.56
+inclinacaoX = -1.76 | inclinacaoY = -88.14 | inclinacaoZ = -0.44
+
+angleX = 90.23 | angleY = 0.57 | angleZ = 90.58
+inclinacaoX = 0.23 | inclinacaoY = -89.43 | inclinacaoZ = 0.58
+
+angleX = 88.27 | angleY = 1.80 | angleZ = 90.29
+inclinacaoX = -1.73 | inclinacaoY = -88.20 | inclinacaoZ = 0.29
+
+angleX = 89.93 | angleY = 0.93 | angleZ = 90.97
+inclinacaoX = -0.07 | inclinacaoY = -89.07 | inclinacaoZ = 0.97
+
+angleX = 89.53 | angleY = 0.56 | angleZ = 90.25
+inclinacaoX = -0.47 | inclinacaoY = -89.44 | inclinacaoZ = 0.25
+
+angleX = 89.17 | angleY = 0.93 | angleZ = 90.35
+inclinacaoX = -0.83 | inclinacaoY = -89.07 | inclinacaoZ = 0.35
+
+angleX = 88.40 | angleY = 1.71 | angleZ = 90.52
+inclinacaoX = -1.60 | inclinacaoY = -88.29 | inclinacaoZ = 0.52
+
+angleX = 88.49 | angleY = 1.97 | angleZ = 91.25
+inclinacaoX = -1.51 | inclinacaoY = -88.03 | inclinacaoZ = 1.25
+
+angleX = 88.72 | angleY = 1.68 | angleZ = 91.08
+inclinacaoX = -1.28 | inclinacaoY = -88.32 | inclinacaoZ = 1.08
+
+angleX = 89.48 | angleY = 1.78 | angleZ = 91.74
+inclinacaoX = -0.52 | inclinacaoY = -88.22 | inclinacaoZ = 1.74
+
+angleX = 88.37 | angleY = 2.34 | angleZ = 91.68
+inclinacaoX = -1.63 | inclinacaoY = -87.66 | inclinacaoZ = 1.68
+
+angleX = 88.96 | angleY = 1.45 | angleZ = 91.02
+inclinacaoX = -1.04 | inclinacaoY = -88.55 | inclinacaoZ = 1.02
+
+angleX = 89.95 | angleY = 1.36 | angleZ = 91.40
+inclinacaoX = -0.05 | inclinacaoY = -88.64 | inclinacaoZ = 1.40
+
+angleX = 90.31 | angleY = 0.83 | angleZ = 90.83
+inclinacaoX = 0.31 | inclinacaoY = -89.17 | inclinacaoZ = 0.83
+
+angleX = 89.68 | angleY = 0.56 | angleZ = 90.48
+inclinacaoX = -0.32 | inclinacaoY = -89.44 | inclinacaoZ = 0.48
+
+angleX = 89.19 | angleY = 0.88 | angleZ = 90.28
+inclinacaoX = -0.81 | inclinacaoY = -89.12 | inclinacaoZ = 0.28
+
+angleX = 90.30 | angleY = 0.32 | angleZ = 90.24
+inclinacaoX = 0.30 | inclinacaoY = -89.68 | inclinacaoZ = 0.24
+
+angleX = 89.64 | angleY = 0.86 | angleZ = 90.80
+inclinacaoX = -0.36 | inclinacaoY = -89.14 | inclinacaoZ = 0.80
+
+angleX = 89.53 | angleY = 0.68 | angleZ = 90.48
+inclinacaoX = -0.47 | inclinacaoY = -89.32 | inclinacaoZ = 0.48
+
+angleX = 90.26 | angleY = 0.22 | angleZ = 90.10
+inclinacaoX = 0.26 | inclinacaoY = -89.78 | inclinacaoZ = 0.10
+
+angleX = 88.72 | angleY = 1.37 | angleZ = 90.39
+inclinacaoX = -1.28 | inclinacaoY = -88.63 | inclinacaoZ = 0.39
+
+angleX = 88.57 | angleY = 1.53 | angleZ = 90.42
+inclinacaoX = -1.43 | inclinacaoY = -88.47 | inclinacaoZ = 0.42
+
+angleX = 88.88 | angleY = 1.25 | angleZ = 90.50
+inclinacaoX = -1.12 | inclinacaoY = -88.75 | inclinacaoZ = 0.50
+
+angleX = 88.80 | angleY = 1.24 | angleZ = 90.06
+inclinacaoX = -1.20 | inclinacaoY = -88.76 | inclinacaoZ = 0.06
+
+angleX = 89.43 | angleY = 0.67 | angleZ = 90.32
+inclinacaoX = -0.57 | inclinacaoY = -89.33 | inclinacaoZ = 0.32
+
+angleX = 89.85 | angleY = 0.20 | angleZ = 89.99
+inclinacaoX = -0.15 | inclinacaoY = -89.80 | inclinacaoZ = -0.01
+
+angleX = 90.20 | angleY = 0.34 | angleZ = 90.35
+inclinacaoX = 0.20 | inclinacaoY = -89.66 | inclinacaoZ = 0.35
+
+angleX = 90.05 | angleY = 0.64 | angleZ = 90.69
+inclinacaoX = 0.05 | inclinacaoY = -89.36 | inclinacaoZ = 0.69
+
+angleX = 90.37 | angleY = 0.82 | angleZ = 90.80
+inclinacaoX = 0.37 | inclinacaoY = -89.18 | inclinacaoZ = 0.80
+
+angleX = 90.99 | angleY = 1.05 | angleZ = 90.49
+inclinacaoX = 0.99 | inclinacaoY = -88.95 | inclinacaoZ = 0.49
+
+angleX = 90.81 | angleY = 0.77 | angleZ = 90.03
+inclinacaoX = 0.81 | inclinacaoY = -89.23 | inclinacaoZ = 0.03
+
+angleX = 89.40 | angleY = 0.70 | angleZ = 90.32
+inclinacaoX = -0.60 | inclinacaoY = -89.30 | inclinacaoZ = 0.32
+
+angleX = 90.98 | angleY = 0.94 | angleZ = 90.06
+inclinacaoX = 0.98 | inclinacaoY = -89.06 | inclinacaoZ = 0.06
+
+angleX = 89.72 | angleY = 0.49 | angleZ = 90.40
+inclinacaoX = -0.28 | inclinacaoY = -89.51 | inclinacaoZ = 0.40
+
+angleX = 90.63 | angleY = 0.72 | angleZ = 90.47
+inclinacaoX = 0.63 | inclinacaoY = -89.28 | inclinacaoZ = 0.47
+
+angleX = 89.30 | angleY = 1.34 | angleZ = 91.16
+inclinacaoX = -0.70 | inclinacaoY = -88.66 | inclinacaoZ = 1.16
+
+angleX = 91.58 | angleY = 1.61 | angleZ = 90.55
+inclinacaoX = 1.58 | inclinacaoY = -88.39 | inclinacaoZ = 0.55
+
+angleX = 91.34 | angleY = 1.43 | angleZ = 90.65
+inclinacaoX = 1.34 | inclinacaoY = -88.57 | inclinacaoZ = 0.65
+
+angleX = 91.31 | angleY = 1.87 | angleZ = 91.43
+inclinacaoX = 1.31 | inclinacaoY = -88.13 | inclinacaoZ = 1.43
+
+angleX = 90.92 | angleY = 1.78 | angleZ = 91.59
+inclinacaoX = 0.92 | inclinacaoY = -88.22 | inclinacaoZ = 1.59
+
+angleX = 90.91 | angleY = 0.99 | angleZ = 90.53
+inclinacaoX = 0.91 | inclinacaoY = -89.01 | inclinacaoZ = 0.53
+
+angleX = 90.57 | angleY = 1.01 | angleZ = 90.91
+inclinacaoX = 0.57 | inclinacaoY = -88.99 | inclinacaoZ = 0.91
+
+angleX = 90.76 | angleY = 1.43 | angleZ = 91.29
+inclinacaoX = 0.76 | inclinacaoY = -88.57 | inclinacaoZ = 1.29
+
+angleX = 90.07 | angleY = 1.02 | angleZ = 91.07
+inclinacaoX = 0.07 | inclinacaoY = -88.98 | inclinacaoZ = 1.07
+
+angleX = 90.61 | angleY = 0.79 | angleZ = 90.60
+inclinacaoX = 0.61 | inclinacaoY = -89.21 | inclinacaoZ = 0.60
+
+angleX = 89.99 | angleY = 1.41 | angleZ = 91.46
+inclinacaoX = -0.01 | inclinacaoY = -88.59 | inclinacaoZ = 1.46
+
+angleX = 90.74 | angleY = 2.32 | angleZ = 92.26
+inclinacaoX = 0.74 | inclinacaoY = -87.68 | inclinacaoZ = 2.26
+
+angleX = 90.14 | angleY = 2.20 | angleZ = 92.24
+inclinacaoX = 0.14 | inclinacaoY = -87.80 | inclinacaoZ = 2.24
+
+angleX = 90.90 | angleY = 2.30 | angleZ = 92.18
+inclinacaoX = 0.90 | inclinacaoY = -87.70 | inclinacaoZ = 2.18
+
+angleX = 90.80 | angleY = 2.02 | angleZ = 91.92
+inclinacaoX = 0.80 | inclinacaoY = -87.98 | inclinacaoZ = 1.92
+
+angleX = 90.24 | angleY = 3.00 | angleZ = 93.04
+inclinacaoX = 0.24 | inclinacaoY = -87.00 | inclinacaoZ = 3.04
+
+angleX = 89.88 | angleY = 2.72 | angleZ = 92.76
+inclinacaoX = -0.12 | inclinacaoY = -87.28 | inclinacaoZ = 2.76
+
+angleX = 89.12 | angleY = 2.30 | angleZ = 92.15
+inclinacaoX = -0.88 | inclinacaoY = -87.70 | inclinacaoZ = 2.15
+
+angleX = 90.34 | angleY = 3.02 | angleZ = 93.05
+inclinacaoX = 0.34 | inclinacaoY = -86.98 | inclinacaoZ = 3.05
+
+angleX = 90.03 | angleY = 3.19 | angleZ = 93.24
+inclinacaoX = 0.03 | inclinacaoY = -86.81 | inclinacaoZ = 3.24
+
+angleX = 89.67 | angleY = 3.07 | angleZ = 93.09
+inclinacaoX = -0.33 | inclinacaoY = -86.93 | inclinacaoZ = 3.09
+
+angleX = 89.79 | angleY = 3.19 | angleZ = 93.23
+inclinacaoX = -0.21 | inclinacaoY = -86.81 | inclinacaoZ = 3.23
+
+angleX = 90.09 | angleY = 3.70 | angleZ = 93.74
+inclinacaoX = 0.09 | inclinacaoY = -86.30 | inclinacaoZ = 3.74
+
+angleX = 90.73 | angleY = 4.06 | angleZ = 94.05
+inclinacaoX = 0.73 | inclinacaoY = -85.94 | inclinacaoZ = 4.05
+
+angleX = 88.68 | angleY = 4.30 | angleZ = 94.12
+inclinacaoX = -1.32 | inclinacaoY = -85.70 | inclinacaoZ = 4.12
+
+angleX = 89.04 | angleY = 4.31 | angleZ = 94.23
+inclinacaoX = -0.96 | inclinacaoY = -85.69 | inclinacaoZ = 4.23
+
+angleX = 89.89 | angleY = 4.48 | angleZ = 94.52
+inclinacaoX = -0.11 | inclinacaoY = -85.52 | inclinacaoZ = 4.52
+
+angleX = 89.09 | angleY = 4.13 | angleZ = 94.07
+inclinacaoX = -0.91 | inclinacaoY = -85.87 | inclinacaoZ = 4.07
+
+angleX = 89.11 | angleY = 4.92 | angleZ = 94.87
+inclinacaoX = -0.89 | inclinacaoY = -85.08 | inclinacaoZ = 4.87
+
+angleX = 89.58 | angleY = 4.74 | angleZ = 94.76
+inclinacaoX = -0.42 | inclinacaoY = -85.26 | inclinacaoZ = 4.76
+
+angleX = 88.68 | angleY = 5.59 | angleZ = 95.47
+inclinacaoX = -1.32 | inclinacaoY = -84.41 | inclinacaoZ = 5.47
+
+angleX = 88.04 | angleY = 6.02 | angleZ = 95.72
+inclinacaoX = -1.96 | inclinacaoY = -83.98 | inclinacaoZ = 5.72
+
+angleX = 86.08 | angleY = 7.01 | angleZ = 95.82
+inclinacaoX = -3.92 | inclinacaoY = -82.99 | inclinacaoZ = 5.82
+
+angleX = 88.08 | angleY = 8.93 | angleZ = 98.75
+inclinacaoX = -1.92 | inclinacaoY = -81.07 | inclinacaoZ = 8.75
+
+angleX = 87.33 | angleY = 9.12 | angleZ = 98.75
+inclinacaoX = -2.67 | inclinacaoY = -80.88 | inclinacaoZ = 8.75
+
+angleX = 87.25 | angleY = 8.23 | angleZ = 97.77
+inclinacaoX = -2.75 | inclinacaoY = -81.77 | inclinacaoZ = 7.77
+
+angleX = 87.39 | angleY = 5.98 | angleZ = 95.40
+inclinacaoX = -2.61 | inclinacaoY = -84.02 | inclinacaoZ = 5.40
+
+angleX = 87.90 | angleY = 5.31 | angleZ = 94.90
+inclinacaoX = -2.10 | inclinacaoY = -84.69 | inclinacaoZ = 4.90
+
+angleX = 88.80 | angleY = 4.60 | angleZ = 94.48
+inclinacaoX = -1.20 | inclinacaoY = -85.40 | inclinacaoZ = 4.48
+
+angleX = 89.13 | angleY = 3.82 | angleZ = 93.76
+inclinacaoX = -0.87 | inclinacaoY = -86.18 | inclinacaoZ = 3.76
+
+angleX = 89.87 | angleY = 3.51 | angleZ = 93.55
+inclinacaoX = -0.13 | inclinacaoY = -86.49 | inclinacaoZ = 3.55
+
+angleX = 89.21 | angleY = 3.06 | angleZ = 92.99
+inclinacaoX = -0.79 | inclinacaoY = -86.94 | inclinacaoZ = 2.99
+
+angleX = 89.24 | angleY = 2.36 | angleZ = 92.27
+inclinacaoX = -0.76 | inclinacaoY = -87.64 | inclinacaoZ = 2.27
+
+angleX = 89.72 | angleY = 1.59 | angleZ = 91.60
+inclinacaoX = -0.28 | inclinacaoY = -88.41 | inclinacaoZ = 1.60
+
+angleX = 89.02 | angleY = 2.08 | angleZ = 91.85
+inclinacaoX = -0.98 | inclinacaoY = -87.92 | inclinacaoZ = 1.85
+
+angleX = 89.10 | angleY = 2.18 | angleZ = 92.01
+inclinacaoX = -0.90 | inclinacaoY = -87.82 | inclinacaoZ = 2.01
+
+angleX = 90.62 | angleY = 0.91 | angleZ = 90.75
+inclinacaoX = 0.62 | inclinacaoY = -89.09 | inclinacaoZ = 0.75
+
+angleX = 90.17 | angleY = 0.88 | angleZ = 90.92
+inclinacaoX = 0.17 | inclinacaoY = -89.12 | inclinacaoZ = 0.92
+
+angleX = 89.58 | angleY = 0.54 | angleZ = 90.33
+inclinacaoX = -0.42 | inclinacaoY = -89.46 | inclinacaoZ = 0.33
+
+angleX = 88.92 | angleY = 1.40 | angleZ = 90.89
+inclinacaoX = -1.08 | inclinacaoY = -88.60 | inclinacaoZ = 0.89
+
+angleX = 90.67 | angleY = 1.33 | angleZ = 91.22
+inclinacaoX = 0.67 | inclinacaoY = -88.67 | inclinacaoZ = 1.22
+
+angleX = 89.27 | angleY = 1.99 | angleZ = 91.88
+inclinacaoX = -0.73 | inclinacaoY = -88.01 | inclinacaoZ = 1.88
+
+angleX = 90.38 | angleY = 0.72 | angleZ = 90.69
+inclinacaoX = 0.38 | inclinacaoY = -89.28 | inclinacaoZ = 0.69
+
+angleX = 91.17 | angleY = 1.74 | angleZ = 91.37
+inclinacaoX = 1.17 | inclinacaoY = -88.26 | inclinacaoZ = 1.37
+
+angleX = 90.35 | angleY = 1.57 | angleZ = 91.58
+inclinacaoX = 0.35 | inclinacaoY = -88.43 | inclinacaoZ = 1.58
+
+angleX = 90.96 | angleY = 2.38 | angleZ = 92.24
+inclinacaoX = 0.96 | inclinacaoY = -87.62 | inclinacaoZ = 2.24
+
+angleX = 90.27 | angleY = 1.28 | angleZ = 91.31
+inclinacaoX = 0.27 | inclinacaoY = -88.72 | inclinacaoZ = 1.31
+
+angleX = 90.85 | angleY = 2.04 | angleZ = 91.92
+inclinacaoX = 0.85 | inclinacaoY = -87.96 | inclinacaoZ = 1.92
+
+angleX = 91.25 | angleY = 3.37 | angleZ = 93.19
+inclinacaoX = 1.25 | inclinacaoY = -86.63 | inclinacaoZ = 3.19
+
+angleX = 90.27 | angleY = 3.12 | angleZ = 93.15
+inclinacaoX = 0.27 | inclinacaoY = -86.88 | inclinacaoZ = 3.15
+
+angleX = 89.95 | angleY = 2.83 | angleZ = 92.88
+inclinacaoX = -0.05 | inclinacaoY = -87.17 | inclinacaoZ = 2.88
+
+angleX = 90.74 | angleY = 4.48 | angleZ = 94.47
+inclinacaoX = 0.74 | inclinacaoY = -85.52 | inclinacaoZ = 4.47
+
+angleX = 90.86 | angleY = 4.29 | angleZ = 94.26
+inclinacaoX = 0.86 | inclinacaoY = -85.71 | inclinacaoZ = 4.26
+
+angleX = 89.47 | angleY = 4.51 | angleZ = 94.52
+inclinacaoX = -0.53 | inclinacaoY = -85.49 | inclinacaoZ = 4.52
+
+angleX = 88.98 | angleY = 2.50 | angleZ = 92.31
+inclinacaoX = -1.02 | inclinacaoY = -87.50 | inclinacaoZ = 2.31
+
+angleX = 92.07 | angleY = 3.99 | angleZ = 93.48
+inclinacaoX = 2.07 | inclinacaoY = -86.01 | inclinacaoZ = 3.48
+
+angleX = 91.16 | angleY = 3.69 | angleZ = 93.56
+inclinacaoX = 1.16 | inclinacaoY = -86.31 | inclinacaoZ = 3.56
+
+angleX = 91.86 | angleY = 2.86 | angleZ = 92.26
+inclinacaoX = 1.86 | inclinacaoY = -87.14 | inclinacaoZ = 2.26
+
+angleX = 91.50 | angleY = 2.50 | angleZ = 92.08
+inclinacaoX = 1.50 | inclinacaoY = -87.50 | inclinacaoZ = 2.08
+
+angleX = 91.07 | angleY = 2.44 | angleZ = 92.26
+inclinacaoX = 1.07 | inclinacaoY = -87.56 | inclinacaoZ = 2.26
+
+angleX = 91.39 | angleY = 1.89 | angleZ = 91.38
+inclinacaoX = 1.39 | inclinacaoY = -88.11 | inclinacaoZ = 1.38
+
+angleX = 91.55 | angleY = 2.58 | angleZ = 92.15
+inclinacaoX = 1.55 | inclinacaoY = -87.42 | inclinacaoZ = 2.15
+
+angleX = 91.93 | angleY = 2.48 | angleZ = 91.65
+inclinacaoX = 1.93 | inclinacaoY = -87.52 | inclinacaoZ = 1.65
+
+angleX = 91.61 | angleY = 2.12 | angleZ = 91.48
+inclinacaoX = 1.61 | inclinacaoY = -87.88 | inclinacaoZ = 1.48
+
+angleX = 90.34 | angleY = 1.50 | angleZ = 91.52
+inclinacaoX = 0.34 | inclinacaoY = -88.50 | inclinacaoZ = 1.52
+
+angleX = 92.46 | angleY = 2.71 | angleZ = 91.27
+inclinacaoX = 2.46 | inclinacaoY = -87.29 | inclinacaoZ = 1.27
+
+angleX = 91.72 | angleY = 2.26 | angleZ = 91.55
+inclinacaoX = 1.72 | inclinacaoY = -87.74 | inclinacaoZ = 1.55
+
+angleX = 91.48 | angleY = 2.19 | angleZ = 91.70
+inclinacaoX = 1.48 | inclinacaoY = -87.81 | inclinacaoZ = 1.70
+
+angleX = 90.59 | angleY = 1.58 | angleZ = 91.53
+inclinacaoX = 0.59 | inclinacaoY = -88.42 | inclinacaoZ = 1.53
+
+angleX = 91.65 | angleY = 1.76 | angleZ = 90.77
+inclinacaoX = 1.65 | inclinacaoY = -88.24 | inclinacaoZ = 0.77
+
+angleX = 92.24 | angleY = 2.57 | angleZ = 91.39
+inclinacaoX = 2.24 | inclinacaoY = -87.43 | inclinacaoZ = 1.39
+
+angleX = 92.39 | angleY = 2.71 | angleZ = 91.40
+inclinacaoX = 2.39 | inclinacaoY = -87.29 | inclinacaoZ = 1.40
+
+angleX = 91.82 | angleY = 1.80 | angleZ = 90.37
+inclinacaoX = 1.82 | inclinacaoY = -88.20 | inclinacaoZ = 0.37
+
+angleX = 92.31 | angleY = 2.36 | angleZ = 90.70
+inclinacaoX = 2.31 | inclinacaoY = -87.64 | inclinacaoZ = 0.70
+
+angleX = 91.42 | angleY = 1.45 | angleZ = 90.50
+inclinacaoX = 1.42 | inclinacaoY = -88.55 | inclinacaoZ = 0.50
+
+angleX = 93.07 | angleY = 3.03 | angleZ = 90.23
+inclinacaoX = 3.07 | inclinacaoY = -86.97 | inclinacaoZ = 0.23
+
+angleX = 92.83 | angleY = 2.87 | angleZ = 90.77
+inclinacaoX = 2.83 | inclinacaoY = -87.13 | inclinacaoZ = 0.77
+
+angleX = 92.24 | angleY = 2.34 | angleZ = 89.24
+inclinacaoX = 2.24 | inclinacaoY = -87.66 | inclinacaoZ = -0.76
+
+angleX = 91.59 | angleY = 1.70 | angleZ = 89.34
+inclinacaoX = 1.59 | inclinacaoY = -88.30 | inclinacaoZ = -0.66
+
+angleX = 93.31 | angleY = 3.26 | angleZ = 89.99
+inclinacaoX = 3.31 | inclinacaoY = -86.74 | inclinacaoZ = -0.01
+
+angleX = 93.62 | angleY = 3.64 | angleZ = 89.36
+inclinacaoX = 3.62 | inclinacaoY = -86.36 | inclinacaoZ = -0.64
+
+angleX = 92.89 | angleY = 2.90 | angleZ = 89.45
+inclinacaoX = 2.89 | inclinacaoY = -87.10 | inclinacaoZ = -0.55
+
+angleX = 92.98 | angleY = 2.99 | angleZ = 89.49
+inclinacaoX = 2.98 | inclinacaoY = -87.01 | inclinacaoZ = -0.51
+
+angleX = 92.97 | angleY = 3.20 | angleZ = 88.76
+inclinacaoX = 2.97 | inclinacaoY = -86.80 | inclinacaoZ = -1.24
+
+angleX = 93.74 | angleY = 3.79 | angleZ = 89.20
+inclinacaoX = 3.74 | inclinacaoY = -86.21 | inclinacaoZ = -0.80
+
+angleX = 94.51 | angleY = 4.50 | angleZ = 89.44
+inclinacaoX = 4.51 | inclinacaoY = -85.50 | inclinacaoZ = -0.56
+
+angleX = 94.07 | angleY = 4.16 | angleZ = 89.00
+inclinacaoX = 4.07 | inclinacaoY = -85.84 | inclinacaoZ = -1.00
+
+angleX = 93.42 | angleY = 3.48 | angleZ = 89.23
+inclinacaoX = 3.42 | inclinacaoY = -86.52 | inclinacaoZ = -0.77
+
+angleX = 94.43 | angleY = 4.53 | angleZ = 88.89
+inclinacaoX = 4.43 | inclinacaoY = -85.47 | inclinacaoZ = -1.11
+
+angleX = 93.99 | angleY = 4.04 | angleZ = 89.15
+inclinacaoX = 3.99 | inclinacaoY = -85.96 | inclinacaoZ = -0.85
+
+angleX = 93.19 | angleY = 3.53 | angleZ = 88.44
+inclinacaoX = 3.19 | inclinacaoY = -86.47 | inclinacaoZ = -1.56
+
+angleX = 93.88 | angleY = 4.11 | angleZ = 88.56
+inclinacaoX = 3.88 | inclinacaoY = -85.89 | inclinacaoZ = -1.44
+
+angleX = 100.14 | angleY = 10.16 | angleZ = 88.90
+inclinacaoX = 10.14 | inclinacaoY = -79.84 | inclinacaoZ = -1.10
+
+angleX = 92.45 | angleY = 2.41 | angleZ = 90.21
+inclinacaoX = 2.45 | inclinacaoY = -87.59 | inclinacaoZ = 0.21
+
+angleX = 93.31 | angleY = 3.29 | angleZ = 89.71
+inclinacaoX = 3.31 | inclinacaoY = -86.71 | inclinacaoZ = -0.29
+
+angleX = 93.66 | angleY = 3.61 | angleZ = 90.03
+inclinacaoX = 3.66 | inclinacaoY = -86.39 | inclinacaoZ = 0.03
+
+angleX = 93.94 | angleY = 3.90 | angleZ = 90.25
+inclinacaoX = 3.94 | inclinacaoY = -86.10 | inclinacaoZ = 0.25
+
+angleX = 93.30 | angleY = 3.26 | angleZ = 90.10
+inclinacaoX = 3.30 | inclinacaoY = -86.74 | inclinacaoZ = 0.10
+
+angleX = 94.99 | angleY = 4.94 | angleZ = 90.02
+inclinacaoX = 4.99 | inclinacaoY = -85.06 | inclinacaoZ = 0.02
+
+angleX = 93.45 | angleY = 3.47 | angleZ = 89.37
+inclinacaoX = 3.45 | inclinacaoY = -86.53 | inclinacaoZ = -0.63
+
+angleX = 93.37 | angleY = 3.46 | angleZ = 89.11
+inclinacaoX = 3.37 | inclinacaoY = -86.54 | inclinacaoZ = -0.89
+
+angleX = 92.62 | angleY = 2.61 | angleZ = 89.62
+inclinacaoX = 2.62 | inclinacaoY = -87.39 | inclinacaoZ = -0.38
+
+angleX = 94.01 | angleY = 3.96 | angleZ = 90.02
+inclinacaoX = 4.01 | inclinacaoY = -86.04 | inclinacaoZ = 0.02
+
+angleX = 93.55 | angleY = 3.52 | angleZ = 89.68
+inclinacaoX = 3.55 | inclinacaoY = -86.48 | inclinacaoZ = -0.32
+
+angleX = 93.70 | angleY = 3.68 | angleZ = 89.66
+inclinacaoX = 3.70 | inclinacaoY = -86.32 | inclinacaoZ = -0.34
+
+angleX = 93.58 | angleY = 3.57 | angleZ = 89.57
+inclinacaoX = 3.58 | inclinacaoY = -86.43 | inclinacaoZ = -0.43
+
+angleX = 93.53 | angleY = 3.48 | angleZ = 90.07
+inclinacaoX = 3.53 | inclinacaoY = -86.52 | inclinacaoZ = 0.07
+
+angleX = 93.92 | angleY = 3.88 | angleZ = 90.30
+inclinacaoX = 3.92 | inclinacaoY = -86.12 | inclinacaoZ = 0.30
+
+angleX = 94.23 | angleY = 4.36 | angleZ = 91.30
+inclinacaoX = 4.23 | inclinacaoY = -85.64 | inclinacaoZ = 1.30
+
+angleX = 93.44 | angleY = 3.40 | angleZ = 90.32
+inclinacaoX = 3.44 | inclinacaoY = -86.60 | inclinacaoZ = 0.32
+
+angleX = 94.61 | angleY = 4.59 | angleZ = 90.58
+inclinacaoX = 4.61 | inclinacaoY = -85.41 | inclinacaoZ = 0.58
+
+angleX = 93.58 | angleY = 3.57 | angleZ = 90.53
+inclinacaoX = 3.58 | inclinacaoY = -86.43 | inclinacaoZ = 0.53
+
+angleX = 93.68 | angleY = 3.69 | angleZ = 90.71
+inclinacaoX = 3.68 | inclinacaoY = -86.31 | inclinacaoZ = 0.71
+
+angleX = 92.40 | angleY = 2.45 | angleZ = 90.73
+inclinacaoX = 2.40 | inclinacaoY = -87.55 | inclinacaoZ = 0.73
+
+angleX = 92.93 | angleY = 2.92 | angleZ = 89.59
+inclinacaoX = 2.93 | inclinacaoY = -87.08 | inclinacaoZ = -0.41
+
+angleX = 93.00 | angleY = 2.97 | angleZ = 90.38
+inclinacaoX = 3.00 | inclinacaoY = -87.03 | inclinacaoZ = 0.38
+
+angleX = 93.96 | angleY = 4.08 | angleZ = 91.18
+inclinacaoX = 3.96 | inclinacaoY = -85.92 | inclinacaoZ = 1.18
+
+angleX = 93.93 | angleY = 3.89 | angleZ = 90.00
+inclinacaoX = 3.93 | inclinacaoY = -86.11 | inclinacaoZ = 0.00
+
+angleX = 92.78 | angleY = 2.74 | angleZ = 90.18
+inclinacaoX = 2.78 | inclinacaoY = -87.26 | inclinacaoZ = 0.18
+
+angleX = 93.73 | angleY = 3.75 | angleZ = 90.76
+inclinacaoX = 3.73 | inclinacaoY = -86.25 | inclinacaoZ = 0.76
+
+angleX = 93.32 | angleY = 3.28 | angleZ = 90.02
+inclinacaoX = 3.32 | inclinacaoY = -86.72 | inclinacaoZ = 0.02
+
+angleX = 93.89 | angleY = 4.01 | angleZ = 91.19
+inclinacaoX = 3.89 | inclinacaoY = -85.99 | inclinacaoZ = 1.19
+
+angleX = 93.94 | angleY = 3.92 | angleZ = 90.43
+inclinacaoX = 3.94 | inclinacaoY = -86.08 | inclinacaoZ = 0.43
+
+angleX = 92.64 | angleY = 2.66 | angleZ = 90.66
+inclinacaoX = 2.64 | inclinacaoY = -87.34 | inclinacaoZ = 0.66
+
+angleX = 93.34 | angleY = 3.32 | angleZ = 90.49
+inclinacaoX = 3.34 | inclinacaoY = -86.68 | inclinacaoZ = 0.49
+
+angleX = 94.27 | angleY = 4.35 | angleZ = 91.05
+inclinacaoX = 4.27 | inclinacaoY = -85.65 | inclinacaoZ = 1.05
+
+angleX = 94.02 | angleY = 3.99 | angleZ = 89.77
+inclinacaoX = 4.02 | inclinacaoY = -86.01 | inclinacaoZ = -0.23
+
+angleX = 93.83 | angleY = 3.79 | angleZ = 89.79
+inclinacaoX = 3.83 | inclinacaoY = -86.21 | inclinacaoZ = -0.21
+
+angleX = 92.51 | angleY = 2.47 | angleZ = 90.21
+inclinacaoX = 2.51 | inclinacaoY = -87.53 | inclinacaoZ = 0.21
+
+angleX = 93.22 | angleY = 3.28 | angleZ = 90.86
+inclinacaoX = 3.22 | inclinacaoY = -86.72 | inclinacaoZ = 0.86
+
+angleX = 93.52 | angleY = 3.48 | angleZ = 90.27
+inclinacaoX = 3.52 | inclinacaoY = -86.52 | inclinacaoZ = 0.27
+
+angleX = 95.11 | angleY = 5.43 | angleZ = 91.99
+inclinacaoX = 5.11 | inclinacaoY = -84.57 | inclinacaoZ = 1.99
+
+angleX = 94.17 | angleY = 4.39 | angleZ = 91.55
+inclinacaoX = 4.17 | inclinacaoY = -85.61 | inclinacaoZ = 1.55
+
+angleX = 93.73 | angleY = 4.07 | angleZ = 91.78
+inclinacaoX = 3.73 | inclinacaoY = -85.93 | inclinacaoZ = 1.78
+
+angleX = 95.26 | angleY = 5.84 | angleZ = 92.67
+inclinacaoX = 5.26 | inclinacaoY = -84.16 | inclinacaoZ = 2.67
+
+angleX = 94.58 | angleY = 4.59 | angleZ = 90.75
+inclinacaoX = 4.58 | inclinacaoY = -85.41 | inclinacaoZ = 0.75
+
+angleX = 94.63 | angleY = 4.61 | angleZ = 90.60
+inclinacaoX = 4.63 | inclinacaoY = -85.39 | inclinacaoZ = 0.60
+
+angleX = 94.43 | angleY = 4.60 | angleZ = 91.42
+inclinacaoX = 4.43 | inclinacaoY = -85.40 | inclinacaoZ = 1.42
+
+angleX = 92.54 | angleY = 2.72 | angleZ = 91.13
+inclinacaoX = 2.54 | inclinacaoY = -87.28 | inclinacaoZ = 1.13
+
+angleX = 93.52 | angleY = 3.60 | angleZ = 90.99
+inclinacaoX = 3.52 | inclinacaoY = -86.40 | inclinacaoZ = 0.99
+
+angleX = 94.15 | angleY = 4.25 | angleZ = 91.14
+inclinacaoX = 4.15 | inclinacaoY = -85.75 | inclinacaoZ = 1.14
+
+angleX = 93.88 | angleY = 3.86 | angleZ = 90.47
+inclinacaoX = 3.88 | inclinacaoY = -86.14 | inclinacaoZ = 0.47
+
+angleX = 94.71 | angleY = 4.75 | angleZ = 90.96
+inclinacaoX = 4.71 | inclinacaoY = -85.25 | inclinacaoZ = 0.96
+
+angleX = 93.72 | angleY = 3.68 | angleZ = 90.16
+inclinacaoX = 3.72 | inclinacaoY = -86.32 | inclinacaoZ = 0.16
+
+angleX = 95.18 | angleY = 5.40 | angleZ = 91.72
+inclinacaoX = 5.18 | inclinacaoY = -84.60 | inclinacaoZ = 1.72
+
+angleX = 94.72 | angleY = 4.79 | angleZ = 91.07
+inclinacaoX = 4.72 | inclinacaoY = -85.21 | inclinacaoZ = 1.07
+
+angleX = 93.68 | angleY = 3.66 | angleZ = 90.44
+inclinacaoX = 3.68 | inclinacaoY = -86.34 | inclinacaoZ = 0.44
+
+angleX = 95.83 | angleY = 5.93 | angleZ = 91.37
+inclinacaoX = 5.83 | inclinacaoY = -84.07 | inclinacaoZ = 1.37
+
+angleX = 95.36 | angleY = 5.39 | angleZ = 90.92
+inclinacaoX = 5.36 | inclinacaoY = -84.61 | inclinacaoZ = 0.92
+
+angleX = 95.27 | angleY = 5.24 | angleZ = 90.41
+inclinacaoX = 5.27 | inclinacaoY = -84.76 | inclinacaoZ = 0.41
+
+angleX = 94.29 | angleY = 4.27 | angleZ = 90.46
+inclinacaoX = 4.29 | inclinacaoY = -85.73 | inclinacaoZ = 0.46
+
+angleX = 94.61 | angleY = 4.60 | angleZ = 90.56
+inclinacaoX = 4.61 | inclinacaoY = -85.40 | inclinacaoZ = 0.56
+
+angleX = 93.78 | angleY = 3.81 | angleZ = 89.29
+inclinacaoX = 3.78 | inclinacaoY = -86.19 | inclinacaoZ = -0.71
+
+angleX = 94.97 | angleY = 4.96 | angleZ = 90.65
+inclinacaoX = 4.97 | inclinacaoY = -85.04 | inclinacaoZ = 0.65
+
+angleX = 94.52 | angleY = 4.49 | angleZ = 90.42
+inclinacaoX = 4.52 | inclinacaoY = -85.51 | inclinacaoZ = 0.42
+
+angleX = 95.16 | angleY = 5.27 | angleZ = 91.32
+inclinacaoX = 5.16 | inclinacaoY = -84.73 | inclinacaoZ = 1.32
+
+angleX = 93.48 | angleY = 3.49 | angleZ = 90.68
+inclinacaoX = 3.48 | inclinacaoY = -86.51 | inclinacaoZ = 0.68
+
+angleX = 93.06 | angleY = 3.07 | angleZ = 90.63
+inclinacaoX = 3.06 | inclinacaoY = -86.93 | inclinacaoZ = 0.63
+
+angleX = 94.30 | angleY = 4.38 | angleZ = 91.07
+inclinacaoX = 4.30 | inclinacaoY = -85.62 | inclinacaoZ = 1.07
+
+angleX = 93.94 | angleY = 4.01 | angleZ = 91.00
+inclinacaoX = 3.94 | inclinacaoY = -85.99 | inclinacaoZ = 1.00
+
+angleX = 93.64 | angleY = 3.67 | angleZ = 90.79
+inclinacaoX = 3.64 | inclinacaoY = -86.33 | inclinacaoZ = 0.79
+
+angleX = 93.91 | angleY = 4.00 | angleZ = 91.07
+inclinacaoX = 3.91 | inclinacaoY = -86.00 | inclinacaoZ = 1.07
+
+angleX = 93.22 | angleY = 3.36 | angleZ = 91.14
+inclinacaoX = 3.22 | inclinacaoY = -86.64 | inclinacaoZ = 1.14
+
+angleX = 94.13 | angleY = 4.08 | angleZ = 89.98
+inclinacaoX = 4.13 | inclinacaoY = -85.92 | inclinacaoZ = -0.02
+
+angleX = 95.53 | angleY = 5.52 | angleZ = 90.68
+inclinacaoX = 5.53 | inclinacaoY = -84.48 | inclinacaoZ = 0.68
+
+angleX = 94.78 | angleY = 4.74 | angleZ = 90.27
+inclinacaoX = 4.78 | inclinacaoY = -85.26 | inclinacaoZ = 0.27
+
+angleX = 94.37 | angleY = 4.36 | angleZ = 90.61
+inclinacaoX = 4.37 | inclinacaoY = -85.64 | inclinacaoZ = 0.61
+
+angleX = 94.81 | angleY = 4.86 | angleZ = 90.99
+inclinacaoX = 4.81 | inclinacaoY = -85.14 | inclinacaoZ = 0.99
+
+angleX = 94.18 | angleY = 4.14 | angleZ = 90.21
+inclinacaoX = 4.18 | inclinacaoY = -85.86 | inclinacaoZ = 0.21
+
+angleX = 93.98 | angleY = 4.02 | angleZ = 90.83
+inclinacaoX = 3.98 | inclinacaoY = -85.98 | inclinacaoZ = 0.83
+
+angleX = 96.29 | angleY = 6.44 | angleZ = 91.61
+inclinacaoX = 6.29 | inclinacaoY = -83.56 | inclinacaoZ = 1.61
+
+angleX = 94.75 | angleY = 4.81 | angleZ = 91.05
+inclinacaoX = 4.75 | inclinacaoY = -85.19 | inclinacaoZ = 1.05
+
+angleX = 96.24 | angleY = 6.30 | angleZ = 91.16
+inclinacaoX = 6.24 | inclinacaoY = -83.70 | inclinacaoZ = 1.16
+
+angleX = 93.92 | angleY = 3.89 | angleZ = 90.30
+inclinacaoX = 3.92 | inclinacaoY = -86.11 | inclinacaoZ = 0.30
+
+angleX = 91.00 | angleY = 6.62 | angleZ = 83.49
+inclinacaoX = 1.00 | inclinacaoY = -83.38 | inclinacaoZ = -6.51
+
+angleX = 92.17 | angleY = 5.06 | angleZ = 85.46
+inclinacaoX = 2.17 | inclinacaoY = -84.94 | inclinacaoZ = -4.54
+
+angleX = 93.32 | angleY = 8.80 | angleZ = 81.89
+inclinacaoX = 3.32 | inclinacaoY = -81.20 | inclinacaoZ = -8.11
+
+angleX = 92.09 | angleY = 7.32 | angleZ = 83.02
+inclinacaoX = 2.09 | inclinacaoY = -82.68 | inclinacaoZ = -6.98
+
+angleX = 93.41 | angleY = 6.86 | angleZ = 84.08
+inclinacaoX = 3.41 | inclinacaoY = -83.14 | inclinacaoZ = -5.92
+
+angleX = 87.27 | angleY = 4.24 | angleZ = 93.25
+inclinacaoX = -2.73 | inclinacaoY = -85.76 | inclinacaoZ = 3.25
+
+angleX = 86.52 | angleY = 4.85 | angleZ = 93.37
+inclinacaoX = -3.48 | inclinacaoY = -85.15 | inclinacaoZ = 3.37
+
+angleX = 89.07 | angleY = 2.84 | angleZ = 92.71
+inclinacaoX = -0.93 | inclinacaoY = -87.16 | inclinacaoZ = 2.71
+
+angleX = 88.29 | angleY = 7.31 | angleZ = 97.14
+inclinacaoX = -1.71 | inclinacaoY = -82.69 | inclinacaoZ = 7.14
+
+angleX = 88.26 | angleY = 6.87 | angleZ = 96.68
+inclinacaoX = -1.74 | inclinacaoY = -83.13 | inclinacaoZ = 6.68
+
+angleX = 88.08 | angleY = 6.74 | angleZ = 96.49
+inclinacaoX = -1.92 | inclinacaoY = -83.26 | inclinacaoZ = 6.49
+
+angleX = 88.71 | angleY = 5.13 | angleZ = 95.00
+inclinacaoX = -1.29 | inclinacaoY = -84.87 | inclinacaoZ = 5.00
+
+angleX = 90.17 | angleY = 5.71 | angleZ = 95.75
+inclinacaoX = 0.17 | inclinacaoY = -84.29 | inclinacaoZ = 5.75
+
